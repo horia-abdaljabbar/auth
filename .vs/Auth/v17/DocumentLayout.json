@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\users\\isactive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\users\\isactive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Migrations\\20240901150434_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth\\Migrations\\20240901150434_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Migrations\\20240901141817_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth\\Migrations\\20240901141817_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\auth\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B842FD67-9E9C-42A2-8591-90E7B0EF7FAC}|Auth\\Auth.csproj|solutionrelative:auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsActive.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\IsActive.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Users\\IsActive.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\IsActive.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Users\\IsActive.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:29:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:26:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:25:15.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:14:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T14:33:56.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:25:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T14:50:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:19:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Users\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T14:41:09.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240901150434_initial2.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Migrations\\20240901150434_initial2.cs",
+              "RelativeDocumentMoniker": "Auth\\Migrations\\20240901150434_initial2.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Migrations\\20240901150434_initial2.cs",
+              "RelativeToolTip": "Auth\\Migrations\\20240901150434_initial2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:04:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Auth\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:13:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Program.cs",
+              "RelativeToolTip": "Auth\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:11:51.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Auth\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Models\\User.cs",
+              "RelativeToolTip": "Auth\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:08:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\appsettings.json",
+              "RelativeToolTip": "Auth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T14:22:33.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Auth\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Auth\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:11:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240901141817_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Migrations\\20240901141817_initial.cs",
+              "RelativeDocumentMoniker": "Auth\\Migrations\\20240901141817_initial.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Migrations\\20240901141817_initial.cs",
+              "RelativeToolTip": "Auth\\Migrations\\20240901141817_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:18:17.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Auth",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Auth.csproj",
+              "RelativeDocumentMoniker": "Auth\\Auth.csproj",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Auth\\Auth\\Auth.csproj",
+              "RelativeToolTip": "Auth\\Auth.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T14:12:15.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
